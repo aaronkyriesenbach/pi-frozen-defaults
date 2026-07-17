@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/aaronkyriesenbach/pi-frozen-defaults/compare/pi-frozen-defaults-v0.3.0...pi-frozen-defaults-v0.3.1) (2026-07-17)
+
+
+### Bug Fixes
+
+* gitignore .npmrc so bun-publish auth via setup-bun works ([22be2cb](https://github.com/aaronkyriesenbach/pi-frozen-defaults/commit/22be2cb14482e35055757ac4fe3d1a0126dd8f6e))
+
 ## [0.3.0](https://github.com/aaronkyriesenbach/pi-frozen-defaults/compare/pi-frozen-defaults-v0.2.2...pi-frozen-defaults-v0.3.0) (2026-07-17)
 
 
